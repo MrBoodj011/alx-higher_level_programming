@@ -6,4 +6,4 @@ if __name__ == "__name__":
     a = 1
     b = 2
 
-    print("{} + {} = {}.fromat(a,b,a+b))
+    print("{} + {} = {}.fromat(a,b,add(a, b)))
