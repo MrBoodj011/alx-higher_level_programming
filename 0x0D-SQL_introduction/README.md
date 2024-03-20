@@ -49,7 +49,6 @@ information_schema
 mysql                                                                                      
 performance_schema                                                                         
 sys                      
-$
-In the container, credentials are root/roo
+
 MrBoodj
-t0x00-python-hello_world
+$
